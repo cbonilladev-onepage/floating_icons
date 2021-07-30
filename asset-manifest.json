@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/floating_icons/static/css/main.98a72957.chunk.css",
+    "main.js": "/floating_icons/static/js/main.8dfef3b3.chunk.js",
+    "main.js.map": "/floating_icons/static/js/main.8dfef3b3.chunk.js.map",
+    "runtime-main.js": "/floating_icons/static/js/runtime-main.0ae420db.js",
+    "runtime-main.js.map": "/floating_icons/static/js/runtime-main.0ae420db.js.map",
+    "static/js/2.962e90d7.chunk.js": "/floating_icons/static/js/2.962e90d7.chunk.js",
+    "static/js/2.962e90d7.chunk.js.map": "/floating_icons/static/js/2.962e90d7.chunk.js.map",
+    "index.html": "/floating_icons/index.html",
+    "static/css/main.98a72957.chunk.css.map": "/floating_icons/static/css/main.98a72957.chunk.css.map",
+    "static/js/2.962e90d7.chunk.js.LICENSE.txt": "/floating_icons/static/js/2.962e90d7.chunk.js.LICENSE.txt",
+    "static/media/diamond.fc584090.svg": "/floating_icons/static/media/diamond.fc584090.svg",
+    "static/media/sparkles.ec6e72c9.svg": "/floating_icons/static/media/sparkles.ec6e72c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ae420db.js",
+    "static/js/2.962e90d7.chunk.js",
+    "static/css/main.98a72957.chunk.css",
+    "static/js/main.8dfef3b3.chunk.js"
+  ]
+}
