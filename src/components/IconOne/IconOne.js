@@ -11,7 +11,7 @@ const IconOne = () => {
 		},
 		show: {
 			opacity: 1,
-			y: "-6vh",
+			y: "-5vh",
 			transition: {
 				yoyo: Infinity,
 				type: "spring",
@@ -25,17 +25,17 @@ const IconOne = () => {
 
 	const subFloatVariant = {
 		hidden: {
-			opacity: 1
+			opacity: 0
 		},
 		show: {
 			opacity: 1,
 			y: "-3vh",
 			transition: {
 				yoyo: Infinity,
-				type: "spring",
+				type: "ease",
 				stiffness: 20,
 				duration: 2,
-				bounce: 0.3,
+				bounce: 1,
 			}
 		}
 	}
