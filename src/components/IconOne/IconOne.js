@@ -14,7 +14,7 @@ const IconOne = () => {
 			y: "-5vh",
 			transition: {
 				yoyo: Infinity,
-				type: "spring",
+				type: "ease",
 				stiffness: 20,
 				duration: 2,
 				bounce: 0.3,
