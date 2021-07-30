@@ -1,0 +1,32 @@
+.view-container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	background: #12c2e9;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.svg {
+	width: 100px;
+}
+
+#sparkles {
+	position: absolute;
+	width: 55px;
+	left: 47vw;
+	top: 39vh;
+}
+
+#second_sparkles {
+	position: absolute;
+	width: 40px;
+	left: 50vw;
+	top: 44vh;
+	transform: scaleX(-1)
+}
