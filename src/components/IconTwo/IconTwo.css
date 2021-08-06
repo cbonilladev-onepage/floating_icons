@@ -22,3 +22,29 @@ h2 {
 	position: absolute;
 	bottom: -60em;
 }
+
+.hello {
+	width: 100px;
+}
+
+#cloud {
+	width: 200px;
+	position: relative;
+	height: auto;
+}
+
+.hello {
+	position: absolute;
+	/* background-color: red; */
+	width: 200px;
+	height: 200px;
+}
+
+#cloud2 {
+	width: 200px;
+	position: relative;
+	height: auto;
+	z-index: 10;
+	/* stroke: black; */
+	/* fill: whitesmoke; */
+}
