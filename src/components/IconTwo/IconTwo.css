@@ -1,0 +1,24 @@
+.second-container {
+	height: 100vh;
+	width: auto;
+	background-color: whitesmoke;
+	margin: 0;
+}
+
+h2 {
+	margin: 0;
+	font-size: 10em;
+}
+
+#Capa_1 {
+	width: 100px;
+	height: auto;
+	position: relative;
+}
+
+.second-svg {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	bottom: -60em;
+}
