@@ -48,3 +48,16 @@ h2 {
 	/* stroke: black; */
 	/* fill: whitesmoke; */
 }
+
+#cloud3 {
+	width: 200px;
+	position: relative;
+	height: auto;
+	z-index: 10;
+	/* stroke: black; */
+	/* fill: whitesmoke; */
+}
+
+.hello {
+	margin: .25em;
+}
