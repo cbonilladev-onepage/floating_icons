@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/floating_icons/static/css/main.36f43bf4.chunk.css",
-    "main.js": "/floating_icons/static/js/main.5251221b.chunk.js",
-    "main.js.map": "/floating_icons/static/js/main.5251221b.chunk.js.map",
+    "main.css": "/floating_icons/static/css/main.cd694444.chunk.css",
+    "main.js": "/floating_icons/static/js/main.ab6f9115.chunk.js",
+    "main.js.map": "/floating_icons/static/js/main.ab6f9115.chunk.js.map",
     "runtime-main.js": "/floating_icons/static/js/runtime-main.0ae420db.js",
     "runtime-main.js.map": "/floating_icons/static/js/runtime-main.0ae420db.js.map",
     "static/js/2.0e39a523.chunk.js": "/floating_icons/static/js/2.0e39a523.chunk.js",
     "static/js/2.0e39a523.chunk.js.map": "/floating_icons/static/js/2.0e39a523.chunk.js.map",
     "index.html": "/floating_icons/index.html",
-    "static/css/main.36f43bf4.chunk.css.map": "/floating_icons/static/css/main.36f43bf4.chunk.css.map",
+    "static/css/main.cd694444.chunk.css.map": "/floating_icons/static/css/main.cd694444.chunk.css.map",
     "static/js/2.0e39a523.chunk.js.LICENSE.txt": "/floating_icons/static/js/2.0e39a523.chunk.js.LICENSE.txt",
     "static/media/cloud.041dd8a4.svg": "/floating_icons/static/media/cloud.041dd8a4.svg",
     "static/media/diamond.fc584090.svg": "/floating_icons/static/media/diamond.fc584090.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.0ae420db.js",
     "static/js/2.0e39a523.chunk.js",
-    "static/css/main.36f43bf4.chunk.css",
-    "static/js/main.5251221b.chunk.js"
+    "static/css/main.cd694444.chunk.css",
+    "static/js/main.ab6f9115.chunk.js"
   ]
 }
