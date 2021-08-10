@@ -1,0 +1,21 @@
+@import './colors';
+
+.third-container {
+	height: 100vh;
+	width: auto;
+	background: $backgroundBase;
+	background: $backgroundGradient;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	.Bowl {
+		width: 300px;
+		height: auto;
+		z-index: 1;
+		&:hover {
+			// background: red;
+		}
+	}
+}
+
