@@ -21,19 +21,19 @@ const IconThree = () => {
 			<motion.div className="bowl_container">
 				<Bowl className={bowlClass} />
 			</motion.div>
-			<motion.div drag className="banana_container">
+			<motion.div drag dragConstraints={{top: 0, left: 0, right: 0, bottom: 0}} dragElastic={1} className="banana_container">
 				<Banana className={bananaClass} />
 			</motion.div>
-			<motion.div drag className="apple_container">
+			<motion.div drag dragConstraints={{top: 0, left: 0, right: 0, bottom: 0}} dragElastic={1} className="apple_container">
 				<Apple className={appleClass} />
 			</motion.div>
-			<motion.div drag className="orange_container">
+			<motion.div drag dragConstraints={{top: 0, left: 0, right: 0, bottom: 0}} dragElastic={1} className="orange_container">
 				<Orange className={orangeClass} />
 			</motion.div>
-			<motion.div drag className="mango_container">
+			<motion.div drag dragConstraints={{top: 0, left: 0, right: 0, bottom: 0}} dragElastic={1} className="mango_container">
 				<Mango className={mangoClass} />
 			</motion.div>
-			<motion.div drag className="lime_container">
+			<motion.div drag dragConstraints={{top: 0, left: 0, right: 0, bottom: 0}} dragElastic={1} className="lime_container">
 				<Lime className={limeClass} />
 			</motion.div>
 		</div>
