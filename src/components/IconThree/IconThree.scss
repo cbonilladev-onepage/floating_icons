@@ -9,12 +9,27 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	.Bowl {
-		width: 300px;
-		height: auto;
-		z-index: 1;
-		&:hover {
-			// background: red;
+	.icon_container {
+		width: 200px;
+		position: absolute;
+		// background-color: red;
+		.Bowl {
+			width: 200px;
+			height: auto;
+			z-index: 99;
+			position: relative;
+			&:hover {
+				// background: red;
+			}
+		}
+		.Banana {
+			width: 100px;
+			height: auto;
+			z-index: 1;
+			position: relative;
+			&:hover {
+				// background: red;
+			}
 		}
 	}
 }

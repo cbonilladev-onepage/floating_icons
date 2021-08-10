@@ -37,7 +37,7 @@ const IconTwo = () => {
 
 	return (
 		<div className="second-container">
-			<h2 className="hello">hello world</h2>
+			{/* <h2 className="hello">hello world</h2> */}
 			<motion.div variants={cloudVariants} initial="hidden" animate="visible" className="hello">
 				<Cloud id={uniqueId}/>
 			</motion.div>

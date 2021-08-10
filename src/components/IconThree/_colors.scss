@@ -1,2 +1,5 @@
-$backgroundBase: rgb(238,174,202) ;
-$backgroundGradient: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+// $backgroundBase: rgb(63,94,251);
+// $backgroundGradient: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+
+$backgroundBase: #40E0D0;  /* fallback for old browsers */
+$backgroundGradient: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
