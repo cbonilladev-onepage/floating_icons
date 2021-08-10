@@ -1,4 +1,4 @@
-@import './colors';
+@import "./colors";
 
 .third-container {
 	height: 100vh;
@@ -9,28 +9,82 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	.icon_container {
-		width: 200px;
+	.bowl_container {
 		position: absolute;
-		// background-color: red;
 		.Bowl {
 			width: 200px;
 			height: auto;
 			z-index: 99;
 			position: relative;
-			&:hover {
-				// background: red;
-			}
 		}
+	}
+
+	.banana_container {
+		width: 100px;
+		position: relative;
+		bottom: 100px;
+		left: 150px;
 		.Banana {
-			width: 100px;
+			width: 150px;
 			height: auto;
 			z-index: 1;
 			position: relative;
-			&:hover {
-				// background: red;
-			}
+			transform: rotate(-10deg)
+		}
+	}
+
+	.apple_container {
+		width: 100px;
+		position: relative;
+		bottom: 90px;
+		left: 30px;
+		.Apple {
+			width: 100px;
+			height: auto;
+			z-index: 2;
+			position: relative;
+			transform: rotate(-30deg)
+		}
+	}
+
+	.orange_container {
+		width: 100px;
+		position: relative;
+		bottom: 65px;
+		left: -20px;
+		.Orange {
+			width: 125px;
+			height: auto;
+			z-index: 3;
+			position: relative;
+		}
+	}
+	
+	.mango_container {
+		width: 100px;
+		position: relative;
+		bottom: 95px;
+		left: -30px;
+		.Mango {
+			width: 100px;
+			height: auto;
+			z-index: 4;
+			position: relative;
+			transform: scaleX(-1) rotate(-30deg)
+		}
+	}
+
+	.lime_container {
+		width: 100px;
+		position: relative;
+		bottom: 75px;
+		left: -150px;
+		.Lime {
+			width: 100px;
+			height: auto;
+			z-index: 5;
+			position: relative;
+			transform: rotate(10deg)
 		}
 	}
 }
-
